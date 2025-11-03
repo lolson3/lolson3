@@ -1,6 +1,6 @@
 ## 🌎 Leif Good-Olson
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leifgoodolson/)](https://www.linkedin.com/in/leif-good-olson/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/lolson3?tab=repositories)](https://github.com/lolson3?tab=repositories) ![](https://komarev.com/ghpvc/?username=lolson3)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leifgoodolson/)](https://www.linkedin.com/in/leifgoodolson/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/lolson3?tab=repositories)](https://github.com/lolson3?tab=repositories) ![](https://komarev.com/ghpvc/?username=lolson3)
 
 ### About Me
 
