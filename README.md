@@ -5,7 +5,11 @@
 ### About Me
 
 <p align="left">
-I am a recent graduate from UC Davis where I have completed my B.S. in Computer Science. In my education, I have explored many aspects of computer science, such as database design, computer networks, web programming, and machine learning. As a result, I have developed a strong interest in full-stack development, particularly when it comes to applying AI in order to further assist people and integrate technology into their daily lives. I’m especially drawn to projects that involve robotics, hardware integration, or data-driven automation, where software directly impacts tangible outcomes. I excel at solving problems in creative ways, have extremely high standards for myself in any position I might hold, and am excited to find a position in which I can apply my knowledge and passion.
+Software engineer focused on backend development, databases, and cloud-native systems. Recent UC Davis Computer Science graduate with experience building authentication systems, REST APIs, serverless applications, and distributed data systems.
+
+Projects include a multi-threaded database inspired by L-Store, a virtual file system in C, and full-stack web applications integrating cloud services, external APIs, and scalable backend infrastructure.
+
+Interested in backend engineering, distributed systems, databases, and cloud infrastructure. Currently seeking software engineering opportunities in New York City.
 <br>
 
 </p>
